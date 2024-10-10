@@ -1,5 +1,11 @@
-template-repository (1.0-1) unstable; urgency=medium
+golang-github-sebdah-goldie (2.5.3+dfsg-2) unstable; urgency=medium
 
-  * Initial release
+  * Drop debian/gbp.conf
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Andreas Tille <tille@debian.org>  Wed, 02 Mar 2022 21:20:22 +0100
+
+golang-github-sebdah-goldie (2.5.3+dfsg-1) unstable; urgency=medium
+
+  * Initial release (Closes: #1005798)
+
+ -- Andreas Tille <tille@debian.org>  Tue, 15 Feb 2022 08:57:24 +0100
